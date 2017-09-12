@@ -1,5 +1,5 @@
 # README
-Vstupitel'naya
-Levchenya Andrey Olegovich
-Group #1
-ISIT 2
+						Vstupitel'naya
+	Levchenya Andrey Olegovich
+		Group #1
+			ISIT 2
